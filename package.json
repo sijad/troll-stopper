@@ -1,0 +1,18 @@
+{
+  "name": "troll-stopper",
+  "main": "./lib/troll-stopper",
+  "version": "0.0.1",
+  "description": "Replace Unicode troll characters",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "troll-stopper:reverce"
+  },
+  "repository": "https://github.com/sijad/troll-stopper",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
