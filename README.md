@@ -9,6 +9,9 @@ Replace Unicode troll characters
 * [mimic](https://github.com/reinderien/mimic)
 * [vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper)
 
+### TODO
+* Highlight the characters
+
 ### License
 
 [MIT](https://github.com/sijad/atom-troll-stopper/blob/master/LICENSE)
