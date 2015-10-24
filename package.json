@@ -1,7 +1,7 @@
 {
   "name": "troll-stopper",
   "main": "./lib/troll-stopper",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Replace Unicode troll characters",
   "keywords": [
   ],
